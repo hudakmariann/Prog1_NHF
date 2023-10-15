@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1668881668 source:c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"menu.h"
+	"readimage.h"
+	"HSV_RGB.h"
+	"debugmalloc.h"
+	"writeimage.h"
+	"filters.h"
+	"control.h"
+
+1668762216 c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\menu.h
+
+1667672814 c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\readimage.h
+
+1668770142 c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\hsv_rgb.h
+
+1667594968 c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1668686996 c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\writeimage.h
+
+1668715032 c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\filters.h
+
+1668779362 c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\control.h
+
+1669565507 source:c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\brightness.c
+	<stdio.h>
+	<stdlib.h>
+	"readimage.h"
+	"HSV_RGB.h"
+	"brightness.h"
+	"debugmalloc.h"
+
+1669565470 c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\brightness.h
+
+1669566549 source:c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\control.c
+	<stdbool.h>
+	<string.h>
+	"menu.h"
+	"readimage.h"
+	"HSV_RGB.h"
+	"brightness.h"
+	"debugmalloc.h"
+	"writeimage.h"
+	"filters.h"
+	"control.h"
+
+1668715032 source:c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\filters.c
+	<stdio.h>
+	<stdlib.h>
+	"readimage.h"
+	"HSV_RGB.h"
+	"brightness.h"
+	"debugmalloc.h"
+	"filters.h"
+
+1668772154 source:c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\hsv_rgb.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"readimage.h"
+	"debugmalloc.h"
+	"HSV_RGB.h"
+
+1668885612 source:c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"readimage.h"
+	"HSV_RGB.h"
+	"debugmalloc.h"
+	"writeimage.h"
+	"filters.h"
+
+1668884090 source:c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\readimage.c
+	<stdio.h>
+	<stdlib.h>
+	"readimage.h"
+	"debugmalloc.h"
+
+1669565820 source:c:\users\terve\documents\mariann_bme\prog_lab\nhf_v1\nhfv1\nhf1119_feltoltve\nhf\writeimage.c
+	<stdio.h>
+	<stdlib.h>
+	"readimage.h"
+	"writeimage.h"
+	"debugmalloc.h"
+
