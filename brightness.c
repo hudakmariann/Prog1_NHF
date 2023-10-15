@@ -4,7 +4,7 @@
 #include "readimage.h"
 #include "HSV_RGB.h"
 #include "brightness.h"
-#include "debugmalloc.h"
+//#include "debugmalloc.h"
 
 
 void setbrightness(ImageParams const *imgdata, HSV  **HSVmatrix){

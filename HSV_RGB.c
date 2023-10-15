@@ -3,7 +3,7 @@
 #include <math.h>
 
 #include "readimage.h"
-#include "debugmalloc.h"
+//#include "debugmalloc.h"
 #include "HSV_RGB.h"
 
 

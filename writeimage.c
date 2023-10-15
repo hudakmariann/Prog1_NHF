@@ -3,7 +3,7 @@
 
 #include "readimage.h"
 #include "writeimage.h"
-#include "debugmalloc.h"
+//#include "debugmalloc.h"
 
 
 

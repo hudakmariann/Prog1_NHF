@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #include "readimage.h"
-#include "debugmalloc.h"
+//#include "debugmalloc.h"
 
 void readfilename(char *filename){
     printf("Please type in the filename of the image to modify. it should be a *.ppm file.");
@@ -97,7 +97,7 @@ PixelData** readfile(char *filename, short* errorcode, ImageParams *imgdata){
     //pixel adatok beolvasasa a heap-re
 
 /* foglalás */
-    debugmalloc_max_block_size(imgdata->w * imgdata->h * sizeof(PixelData));
+    //debugmalloc_max_block_size(imgdata->w * imgdata->h * sizeof(PixelData));
 
     matrix = (PixelData**) malloc(imgdata->h * sizeof(PixelData*));
     matrix[0] = (PixelData*) malloc(imgdata->w * imgdata->h * sizeof(PixelData));

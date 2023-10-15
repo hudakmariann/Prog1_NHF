@@ -99,13 +99,12 @@
 	"filters.h"
 	"control.h"
 
-1697391561 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/brightness.c
+1697392645 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/brightness.c
 	<stdio.h>
 	<stdlib.h>
 	"readimage.h"
 	"HSV_RGB.h"
 	"brightness.h"
-	"debugmalloc.h"
 
 1697391561 /home/hudakmariann/BME/Prog1/Prog1_NHF/readimage.h
 
@@ -124,14 +123,13 @@
 	<process.h>
 	<unistd.h>
 
-1697391561 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/control.c
+1697392645 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/control.c
 	<stdbool.h>
 	<string.h>
 	"menu.h"
 	"readimage.h"
 	"HSV_RGB.h"
 	"brightness.h"
-	"debugmalloc.h"
 	"writeimage.h"
 	"filters.h"
 	"control.h"
@@ -153,15 +151,14 @@
 	"debugmalloc.h"
 	"filters.h"
 
-1697391560 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/HSV_RGB.c
+1697392645 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/HSV_RGB.c
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
 	"readimage.h"
-	"debugmalloc.h"
 	"HSV_RGB.h"
 
-1697391561 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/main.c
+1697392645 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/main.c
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
@@ -169,31 +166,27 @@
 	"menu.h"
 	"readimage.h"
 	"HSV_RGB.h"
-	"debugmalloc.h"
 	"writeimage.h"
 	"filters.h"
 	"control.h"
 
-1697391561 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/menu.c
+1697392645 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/menu.c
 	<stdio.h>
 	<stdlib.h>
 	"menu.h"
 	"readimage.h"
 	"HSV_RGB.h"
-	"debugmalloc.h"
 	"writeimage.h"
 	"filters.h"
 
-1697391561 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/readimage.c
+1697392645 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/readimage.c
 	<stdio.h>
 	<stdlib.h>
 	"readimage.h"
-	"debugmalloc.h"
 
-1697391561 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/writeimage.c
+1697392645 source:/home/hudakmariann/BME/Prog1/Prog1_NHF/writeimage.c
 	<stdio.h>
 	<stdlib.h>
 	"readimage.h"
 	"writeimage.h"
-	"debugmalloc.h"
 

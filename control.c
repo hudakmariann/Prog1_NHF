@@ -6,7 +6,7 @@
 #include "readimage.h"
 #include "HSV_RGB.h"
 #include "brightness.h"
-#include "debugmalloc.h"
+//#include "debugmalloc.h"
 #include "writeimage.h"
 #include "filters.h"
 #include "control.h"

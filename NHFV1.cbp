@@ -43,7 +43,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="control.h" />
-		<Unit filename="debugmalloc.h" />
 		<Unit filename="filters.c">
 			<Option compilerVar="CC" />
 		</Unit>
